@@ -1,0 +1,175 @@
+html {
+    font-size: 62.5%
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #ffffff
+}
+
+.box {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto
+}
+
+.tbox {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    background: #29bde0
+}
+
+.head {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #74d4eb;
+    padding: 2.25% 0;
+    position: relative;
+    color: #fff;
+}
+
+.home {
+    width: 100%;
+    max-width: 51px;
+    position: absolute;
+
+    top: 31.957%;
+    left: 2.812%;
+}
+
+.head h1 {
+    font-size: 3.4rem;
+}
+
+.i {
+    width: 6.25%;
+    position: absolute;
+
+    top: 31.957%;
+    right: 2.812%;
+}
+
+.main {
+    margin: 0;
+    position: relative;
+    color: #fff
+}
+
+.logo {
+    display:inline;width: 54.69%;
+    position: relative;
+   margin-top: 5.21%;left:22.34%;
+}
+
+
+.main h1 {position: absolute;
+    top: 27.612%;left:35.156%;
+    font-size: 4.8em;}
+
+.main p {
+    width: 75%;
+    font-size: 3.3em;
+    color: rgb(255, 200, 101);
+    text-align:justify;left: 12.5%;
+    position: relative;
+}
+
+.result {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 9.84%;
+    padding-bottom: 4.078%;
+}
+
+.result span {
+    text-align: left;
+    color: #fff;
+    font-size: 2.6rem;
+}
+
+.result ul, li {
+    margin: 0;
+    padding: 0
+}
+
+.result ul {
+    width: 95.8%;
+    float: left;
+}
+
+.result li {
+    white-space: pre-wrap;
+    float: left;
+    padding-right: 7.8125%;
+    list-style-type: none;
+    font-size: 2.6rem;
+}
+
+.process {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 1.782%;
+}
+
+.t {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    border-bottom: 2px solid #dddddd;
+    padding-bottom: 3%;
+}
+
+.t h1 {
+    width: 76.25%;
+    color: #515151;
+    font-size: 3.0rem;
+    text-align: left;
+    margin: 2.242% auto 0;
+}
+
+.t p {
+    width: 76.25%;
+    font-size: 2.6rem;
+    color: #a6a6a6;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.t span {
+    color: #c7c7c7;
+    float: right
+}
+
+.foot {
+    width: 100%;
+    max-width: 640px;
+    background: rgba(153, 233, 240, 0.8);
+    padding: 1.5% 0;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
+.foot a {
+    text-decoration: none;
+    width:42.34%;
+    font-size: 4.0rem;
+    color: #fff;
+    margin: 0 3.60%;
+}
+
+.foot1 {
+    background: #f66f6f;
+    border-radius: 10px;
+    float: left;
+}
+
+.foot2 {
+    background: #fbb435;
+    border-radius: 10px;
+    float: right;
+}
